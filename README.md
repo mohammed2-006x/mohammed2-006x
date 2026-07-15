@@ -36,3 +36,9 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio,git,github" />
 </p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohammed2-006x&theme=tokyonight&hide_border=true" />
+</p>
