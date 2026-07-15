@@ -42,3 +42,9 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mohammed2-006x&theme=tokyonight&hide_border=true" />
 </p>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed2-006x&theme=tokyo-night&hide_border=true" />
+</p>
