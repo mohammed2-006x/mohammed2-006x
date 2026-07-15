@@ -30,3 +30,9 @@
 📖 **Following Programming Advices Roadmap**
 
 👨‍🏫 **Learning under Dr. Mohammed Abu-Hadhoud**
+
+## 🛠️ Skills & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio,git,github" />
+</p>
