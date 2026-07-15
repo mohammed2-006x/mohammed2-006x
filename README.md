@@ -36,14 +36,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio,git,github" />
 </p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammed2-006x&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohammed2-006x&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohammed2-006x&theme=github_dark" />
-</p>
